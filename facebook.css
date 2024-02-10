@@ -1,0 +1,58 @@
+.box{
+ width: 500px; 
+height: 70vh;
+background-color: white;
+margin: 150px auto;
+box-shadow: 1px 1px 10px rgb(88, 85, 85);
+}
+.email {
+margin-left: 20px;
+margin-top: 20px;
+padding: 20px;
+width: 450px;
+border-radius: 5px;
+border: none;
+border: 1px solid grey;
+font-size: large;
+}
+.password{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    width: 450px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid grey;
+    font-size: large;
+    }
+.login{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    width: 450px;
+    border-radius: 10px;
+    background-color: #1877f2;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border:none
+    
+}
+.forgotten{
+    margin-left: 190;
+    margin-top: 30;
+    width: 20px;
+    color: #1877f2;
+    font-size: large;
+}
+.Create{
+    margin-left: 129px;
+    margin-top: 20px;
+    padding: 20px;
+    width: 250px;
+    background-color: #42B72A;
+    color: white;
+    border-radius: 5PX;
+    font-size: 15px;
+    font-weight: bold;
+}
